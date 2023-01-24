@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.aElementi {
+	text-align: center;
+}
+.centriraniElementi {
+	text-align: center;
+}
+
+.product {
+	text-align: center;
+	display: inline-block;
+	margin: 10px;
+	width: 284px;
+}
+.singer {
+	width: 100%;
+	border-radius: 10px;
+	height: 140px;
+}
+.colorText {
+	color: brown;
+}
